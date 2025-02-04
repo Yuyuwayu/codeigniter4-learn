@@ -9,4 +9,7 @@ class Page extends BaseController {
     public function contact() {
         echo "Contact";
     }
+    public function service(){
+        echo "Service";
+    }
 }
